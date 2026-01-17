@@ -1,0 +1,3 @@
+braille table reversed to get the desired effect
+1s delay in between letters
+space means all the poles are down
