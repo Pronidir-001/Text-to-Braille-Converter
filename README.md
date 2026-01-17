@@ -18,7 +18,7 @@ The project includes the firmware code written in C/Embedded C and a full hardwa
 - **Language:** Embedded C
 - **Microcontroller:** ATmega328p
 
-## 📂 Project Structure
+## Project Structure
 ```text
 ├── code_file/          # Source code and Atmel Studio solution
 ├── simulation/         # Proteus simulation files (.pdsprj)
